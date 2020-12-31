@@ -11,7 +11,6 @@ export default class MyDocument extends Document {
             href="https://assets.squarespace.com/universal/fonts/squarespace-clarkson-v1.2.css"
           />
         </Head>
-        >
         <body>
           <Main />
           <NextScript />

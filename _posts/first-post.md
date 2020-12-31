@@ -1,13 +1,13 @@
 ---
-title: "My first post"
-excerpt: "This is the first post for my technical blog. I want to document my progress as I build things"
-coverImage: "/assets/blog/preview/cover.jpg"
+title: "Good enough."
+excerpt: "This is the beginning of the cataloging of things I am building. This is my ultimate quest to find out just when its the perfect time to finally throw up my hands and say, 'its done, its good enough'"
+coverImage: "/assets/blog/img/wrench.jpg"
 date: "2020-12-30 18:19:26"
 author:
   name: Robby
   picture: "/assets/blog/authors/robby.jpeg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/img/wrench.jpg"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
